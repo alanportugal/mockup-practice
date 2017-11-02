@@ -12,6 +12,10 @@ header{
   
 }
 
-h1 {
+header h1{
+  color:mediumpurple;
+  text-align: center;
+  font-size: 3rem;
   font-family: serif;
+  margin: 2rem 0 1rem 0;
 }
