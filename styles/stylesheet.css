@@ -37,3 +37,24 @@ header h1{
   color: white;
   text-decoration: none;
 }
+
+aside{
+  clear: both;
+  background-color:thistle;
+  float: left;
+  height: 25rem;
+}
+
+aside ul{
+  list-style-type: none;
+  padding: 7rem;
+}
+
+aside li{
+  padding: 5px 0;
+}
+
+aside a{
+  text-decoration: none;
+  color: white;
+}
