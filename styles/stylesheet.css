@@ -2,6 +2,11 @@ body{
   font-family: arial;
 }
 
+.content-wrapper{
+  margin: 0 auto;
+  text-align: center;
+}
+
 header{
   width:auto;
   
