@@ -26,8 +26,8 @@ header h1{
 
 .main-nav li{
   float: left;
-  border-right: 2px solid purple;
-  width: 14.15%;
+  border-right: 1px solid purple;
+  width: 14.16%;
   background-color: mediumpurple;
 }
 
