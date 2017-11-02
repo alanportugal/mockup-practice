@@ -70,3 +70,12 @@ figure img{
   width: 500px;
   height: 333px;
 }
+
+a:hover{
+  background-color: purple;
+}
+
+footer{
+  clear: both;
+  text-align: center;
+}
