@@ -19,6 +19,7 @@ header h1{
   margin: 2rem 0 1rem 0;
 }
 
+/* CSS for main-nav class */
 .main-nav ul{
   list-style-type: none;
   overflow: hidden;
@@ -37,7 +38,9 @@ header h1{
   color: white;
   text-decoration: none;
 }
+/*------------------------*/
 
+/* CSS for aside tag */
 aside{
   clear: both;
   background-color:thistle;
@@ -58,7 +61,9 @@ aside a{
   text-decoration: none;
   color: white;
 }
+/*---------------------*/
 
+/* CSS for figure tag */
 figure{
   background-color: gainsboro;
   height: 25rem;
@@ -70,6 +75,7 @@ figure img{
   width: 500px;
   height: 333px;
 }
+/*---------------------*/
 
 a:hover{
   background-color: purple;
